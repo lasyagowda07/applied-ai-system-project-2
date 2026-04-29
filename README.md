@@ -162,7 +162,7 @@ Warnings:   []
 
 ## Demo Video
 
-▶ [Watch Demo]([https://www.loom.com/share/0a1110bfa216400da29fabc96ed3599d])
+▶ [Watch Demo]([(https://www.loom.com/share/0a1110bfa216400da29fabc96ed3599d)])
 
 ---
 
